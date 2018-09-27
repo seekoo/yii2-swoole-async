@@ -1,11 +1,11 @@
-# yii2 Swoole Async
+﻿# yii2 Swoole Async
 
 yii2异步任务扩展:基于swoole和yii2-console的异步任务实现，配置简洁，与Yii2无缝集成，只需要安装swoole扩展即可使用
 
 swoole版本要求：>=1.8.1
 
 实现原理
-------------
+---------------
 
 1、客户端发送异步console任务执行请求
 

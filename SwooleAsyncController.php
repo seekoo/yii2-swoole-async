@@ -13,7 +13,7 @@ use yii\console\Exception;
 use mevyen\swooleAsync\src\SwooleService;
 
 class SwooleAsyncController extends Controller {
-    
+
     /**
      * 存储swooleAsync配置中的所有配置项
      * @var array
